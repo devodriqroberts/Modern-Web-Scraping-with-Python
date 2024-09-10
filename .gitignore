@@ -1,0 +1,13 @@
+/redfin
+worldometers/worldometers/__pycache__
+worldometers/worldometers/spiders/__pycache__
+tinydeal/tinydeal/__pycache__
+tinydeal/tinydeal/spiders/__pycache__
+slickdeals/slickdeals/__pycache__
+slickdeals/slickdeals/spiders/__pycache__
+livecoin/livecoin/__pycache__
+livecoin/livecoin/spiders/__pycache__
+imdb/imdb/__pycache__
+imdb/imdb/spiders/__pycache__
+candles_scraper/candles_scraper/__pycache__
+candles_scraper/candles_scraper/spiders/__pycache__
