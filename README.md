@@ -28,7 +28,7 @@ This repository showcases the web scraping project developed by following the **
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-scraping-project.git
+   git clone https://github.com/devodriqroberts/Modern-Web-Scraping-with-Python.git
    ```
 
 2. Navigate to the project directory:
